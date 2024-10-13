@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">WorkFlow</string>
+    <!--activity_main-->
+    <string name="task">Tasks</string>
+    
+    <!--activity_update_task-->
+    <string name="update">Edit Your Task</string>
+    <string name="title">Enter the Title</string>
+    <string name="description">Enter the Description</string>
+
+    <!--dialog_confirm-->
+    <string name="delete">Confirm Delete</string>
+    <string name="sure">Are you sure you want to delete this task?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <!--activity_add_task-->
+    <string name="add">Add Task</string>
+
+</resources>
